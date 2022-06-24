@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 
 
