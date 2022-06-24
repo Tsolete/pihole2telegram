@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import config
 from telegram.ext import CommandHandler
 from telegram.ext import Updater, CallbackQueryHandler
